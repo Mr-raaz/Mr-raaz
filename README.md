@@ -2,7 +2,7 @@
 <img  src='https://hydratech.co.ke/wp-content/uploads/2021/04/web-app-coding.gif' height='250px' width="100%"/>
 <h1 align="center">Hi 👋, I'm Anshu Raj</h1>
 <h3 align="center">An aspiring Full Stack Web Developer</h3>
-
+<img align="right" alt="Coding" width="400" style="border-radius:50%;" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-raaz&label=Profile%20views&color=0e75b6&style=flat" alt="mr-raaz" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-raaz" alt="mr-raaz" /></a> </p> -->
@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-raaz&show_icons=true&locale=en&layout=compact" alt="mr-raaz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-raaz&show_icons=true&locale=en" alt="mr-raaz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-raaz&show_icons=true&locale=en" alt="mr-raaz" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-raaz&" alt="mr-raaz" /></p>
+
 
