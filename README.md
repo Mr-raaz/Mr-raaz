@@ -1,4 +1,5 @@
-[![MasterHead](https://hydratech.co.ke/wp-content/uploads/2021/04/web-app-coding.gif)](https://github.com/Mr-raaz)
+<!-- [![MasterHead](https://hydratech.co.ke/wp-content/uploads/2021/04/web-app-coding.gif)](https://github.com/Mr-raaz) -->
+<img  src='https://hydratech.co.ke/wp-content/uploads/2021/04/web-app-coding.gif' height='250px' width="100%"/>
 <h1 align="center">Hi 👋, I'm Anshu Raj</h1>
 <h3 align="center">An aspiring Full Stack Web Developer</h3>
 
@@ -11,6 +12,9 @@
 - 💬 Ask me about **React , Javascript , Java**
 
 - 📫 How to reach me **fakereal477@gmail.com**
+
+- ⚡ Fun fact **I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
