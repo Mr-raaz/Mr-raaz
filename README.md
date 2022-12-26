@@ -15,6 +15,7 @@
 - 📫 How to reach me **fakereal477@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png"  height="15px" width="15px"/> <a href="https://www.linkedin.com/in/mrraaz/">&nbsp;Linkedin</a>
 
 
 <h3 align="left">Connect with me:</h3>
