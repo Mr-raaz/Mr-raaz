@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://hydratech.co.ke/wp-content/uploads/2021/04/web-app-coding.gif)](https://github.com/Mr-raaz) -->
 <img  src='https://hydratech.co.ke/wp-content/uploads/2021/04/web-app-coding.gif' height='250px' width="100%"/>
 <h1 align="center">Hi 👋, I'm Anshu Raj</h1>
-<h3 align="center">An aspiring Full Stack Web Developer with hands on experience in MERN stack projects and ability to work in team</h3>
+<h3 align="center">An aspiring Full Stack Web Developer with hands on experience in MERN stack projects and ability to work in team . Always ready to learn and implement new technology </h3>
 <br><br>
 <img align="right" alt="Coding" width="400" style="border-radius:50%;" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-raaz&label=Profile%20views&color=0e75b6&style=flat" alt="mr-raaz" /> </p>
