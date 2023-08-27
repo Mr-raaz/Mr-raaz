@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-raaz" alt="mr-raaz" /></a> </p> -->
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **System Design**
 
 - 💬 Ask me about **React , Javascript , Java**
 
